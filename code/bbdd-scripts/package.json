@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1",
+    "nexo-npm-node-logger": "git+https://otd.ibl-inetum.services/bitbucket/scm/nexo-npm/nexo-npm-node-logger.git",
+    "nexo-npm-node-mongo": "git+https://otd.ibl-inetum.services/bitbucket/scm/nexo-npm/nexo-npm-node-mongo.git"
+  }
+}
